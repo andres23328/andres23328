@@ -5,9 +5,11 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-andres23328.github.io-5646ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andres23328.github.io)
 [![Correo](https://img.shields.io/badge/Correo-ardila23328@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardila23328@gmail.com)
 
-<img src="assets/terminal.svg" alt="Terminal con resumen del perfil" width="90%" />
+<img src="assets/terminal.svg?v=2" alt="Terminal con resumen del perfil" width="90%" />
 
 </div>
+
+
 
 <img src="assets/t-sobre.svg" alt="Sobre mí" width="100%" />
 

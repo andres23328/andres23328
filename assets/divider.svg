@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 8" width="1000" height="8" role="img" aria-label="Separador">
-<defs><linearGradient id="h"><stop offset="0" stop-color="#8b7bff" stop-opacity="0"/><stop offset=".5" stop-color="#ffb454"/><stop offset="1" stop-color="#8b7bff" stop-opacity="0"/></linearGradient></defs>
-<rect y="3" width="1000" height="2" rx="1" fill="#283058"/>
-<rect y="2" width="260" height="4" rx="2" fill="url(#h)"><animate attributeName="x" values="-260;1000" dur="3.5s" repeatCount="indefinite"/></rect>
-</svg>

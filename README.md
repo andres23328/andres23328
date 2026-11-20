@@ -49,6 +49,21 @@ Soy **tecnólogo en Análisis y Desarrollo de Sistemas de Información** y estud
 
 <img src="assets/t-contacto.svg" alt="Contacto" width="100%" />
 
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andres23328&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres23328&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andres23328&theme=tokyo-night&hide_border=true&area=true" alt="Actividad" />
+
+</div>
+
 <div align="center">
 
 Si tienes una vacante o un proyecto, escríbeme.

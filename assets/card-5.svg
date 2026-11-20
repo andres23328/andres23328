@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 144" width="490" height="144" role="img" aria-label="Vida_fit: Plataforma Vida Fit">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b7bff"/><stop offset="1" stop-color="#ffb454"/></linearGradient></defs>
+<rect width="490" height="144" rx="14" fill="#0e1226"/>
+<rect x="1.5" y="1.5" width="487" height="141" rx="13" fill="none" stroke="url(#g)" stroke-width="2" stroke-dasharray="120 60"><animate attributeName="stroke-dashoffset" from="0" to="-180" dur="4s" repeatCount="indefinite"/></rect>
+<circle cx="466" cy="26" r="5" fill="#3ddc97"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="24" y="32" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="17" font-weight="700" fill="#ffb454">Vida_fit</text>
+<text x="24" y="54" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="13" font-weight="700" fill="#c4b8ff">Plataforma Vida Fit</text>
+<text x="24" y="74" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="12.5" fill="#aab3d6">Cliente web del ecosistema</text>
+<text x="24" y="90" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="12.5" fill="#aab3d6">Vida Fit con IMC y rutinas</text>
+<rect x="24" y="100" width="54" height="24" rx="12" fill="#1b2247" stroke="#3a4478"/><text x="51.0" y="116" text-anchor="middle" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="12" fill="#c4b8ff">React</text><rect x="86" y="100" width="91" height="24" rx="12" fill="#1b2247" stroke="#3a4478"/><text x="131.5" y="116" text-anchor="middle" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="12" fill="#c4b8ff">TypeScript</text><rect x="185" y="100" width="84" height="24" rx="12" fill="#1b2247" stroke="#3a4478"/><text x="227.0" y="116" text-anchor="middle" font-family="Fira Code,Cascadia Code,Consolas,monospace" font-size="12" fill="#c4b8ff">OAuth 2.0</text>
+</svg>
